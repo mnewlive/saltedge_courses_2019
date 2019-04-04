@@ -1,0 +1,16 @@
+1. a=-123
+puts a%1==0 && a.to_i.even? 
+=> false
+puts a%1==0 && a.to_i.odd?
+=> true
+
+2.  puts "The next number to 6893 will be #{6893+1}"
+=> The next number to 6893 will be 6894
+
+3. puts "The previous number to 0 is #{0-1}"
+The previous number to 0 is -1
+
+4. (12.to_i/ 4.5).round
+=> 3
+
+5. 
