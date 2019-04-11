@@ -14,4 +14,4 @@
 4. `"Brand new bicycle"` - check if the sctring's last word is `bicycle`
 5. `"Brand new bicycle"` - find out what index the letter "w" has
 6. `"I thought I knew everything before that night"` - split the string in 3 parts to get the following result: `"I thought I new "`, `"everything"`, `"before that night"`
-7. `"Final result from Float/Integer part is: "` - using interpolation place the sum of all results from first 5 examples to the end of string.
+7. `"Final result from Float/Integer part is: "` - using interpolation place the sum of all results from first 5 examples to the end of string.# NAndriuta
